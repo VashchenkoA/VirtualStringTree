@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+Win32/Release/Project1.map
+Win32/Release/Project1.pdi
+Win32/Release/Project1.tds
